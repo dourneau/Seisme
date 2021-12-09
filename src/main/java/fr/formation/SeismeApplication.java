@@ -10,4 +10,4 @@ public class SeismeApplication {
             SpringApplication.run(SeismeApplication.class, args);
         }
     }
-}
+
